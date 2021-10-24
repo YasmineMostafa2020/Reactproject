@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+.rating{
+    background-color: #69b7ee !important;
+    width: 50px;
+}
+.productimg{
+    width:100px;
+}
